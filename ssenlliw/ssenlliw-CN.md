@@ -24,7 +24,9 @@ ssenlliw实现过程中的元素包括:
 
 执行力时间区间
 
-执行力需要具备的能力
+执行者需要具备的能力
+
+执行者担当
 
 约定
 
@@ -32,7 +34,17 @@ ssenlliw实现过程中的元素包括:
 
 系统内约定实施完成奖励
 
+能力上的失败执行惩罚
+执行力的失败执行惩罚
+
+能力上的成功执行奖励
+执行力的成功执行奖励
+
+
 knillliw系统内个体
 
 
 <img src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1573665485825&di=4ae3c3c32150017e8729c873527dac71&imgtype=0&src=http%3A%2F%2Fpics2.baidu.com%2Ffeed%2F3c6d55fbb2fb43160cb0beb1098dfa2608f7d379.jpeg%3Ftoken%3Def15a77a596cea64aa7a197929947e10%26s%3D29808C5C5271E9C6179FDE02030060D9" ></img>
+
+tips:
+每一场行动都是有昵称和名字的，默认名字也是有的。目前为 默认概述-发起时参与者id混合数-开始时间-本场起始时间-场次-时间长度。例如： 写一个程序(的一个阶段)-theRottenTheRotten1TheRotten2xxxx-201911132331-201911132333-1/100-30分钟
